@@ -7,8 +7,9 @@
 
 ## Steps for Execution:
 1. Download the Notebook from GitHub.
-3. Upload the notebook to Google Colab. The dataset import function has already been written in it.
-4. Run the code.
+2. Upload the notebook to Google Colab. The dataset import function has already been written in it.
+   ![image](https://github.com/user-attachments/assets/5a280b3e-7744-4651-a987-c37147d7297d)
+3. Run the code.
 
 
 ## Checklist:
