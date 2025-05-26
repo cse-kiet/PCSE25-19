@@ -1,9 +1,9 @@
 # Title of Project: Integrative Healthcare System: AI-Driven Disease and Patient Diagnosis System
 
 ## Team Members:
-1. Ayush Sachan
-2. Abhinav
-3. Andril Omer
+1. Ayush Sachan (2100290100044) (Section - A)
+2. Abhinav (2100290100005) (Section - A)
+3. Andril Omer (2100290100029) (Section - A)
 
 ## Steps for Execution:
 1. Download the Notebook from GitHub.
