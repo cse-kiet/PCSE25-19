@@ -6,9 +6,10 @@
 3. Andril Omer
 
 ## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
+1. Download the Notebook from GitHub.
+3. Upload the notebook to Google Colab. The dataset import function has already been written in it.
+4. Run the code.
+
 
 ## Checklist:
 1. Final Project Report
